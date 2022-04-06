@@ -40,7 +40,7 @@ color: #FFFFFF;
     color: white;
 }
 .img{
-background-image: url(/cardimage.png);
+background-image: url(/assets/cardimage.png);
 height: 100%;
 width: 100%;
 }
